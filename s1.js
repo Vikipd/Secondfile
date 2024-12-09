@@ -1,0 +1,1 @@
+document.write("Money Money Money that is the life.")
